@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html lang="RU">
+
+
+<head>
+ 
+ <meta charset="UTF-8" /> 
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ 
+ <link rel="stylesheet" href="stule.css" />
+
+  <title>Сайт</title>
+
+</head>
+
+
+<body>
+
+	<div class="box" id="headTable">
+		<table border="0">
+		    <tr>
+			    <th>&#160 &#160 &#160 &#160 &#160 &#160 <a href="" class = "h_">Конспект <img src="icon2.png"></a></th>
+			    <th>&#160 &#160 &#160 &#160 &#160 </th>
+			    <th>&#160 &#160 &#160 &#160 &#160 </th>
+			    <th>&#160 &#160 &#160 <a href="" class = "t_">Математика</a></th>
+			    <th>&#160 &#160 &#160 <a href="" class = "t_">5 класс</a></th>
+			    <th>&#160 &#160 &#160 <a href="" class = "t_">6 класс</a></th>
+			    <th>&#160 &#160 &#160 <a href="" class = "t_">Другие класы</a></th>
+		    </tr>
+	    </table>
+	</div>
+	
+
+	
+	<div class="box" id="area1">
+
+		<center>
+			<p>
+				Главная
+			</p>
+		</center>
+
+		<div align="left" style="margin: 0px 0px 80px 40px;">
+			<a href="">
+				<p class = "term"> 
+					Математика <br />
+					
+				</p>
+			</a>
+			<a href="">
+				<p class = "term"> 
+					Русский <br />
+					
+				</p>
+			</a>
+			<a href="">
+				<p class = "term"> 
+					История <br />
+					
+				</p>
+			</a>
+			<a href="">
+				<p class = "term"> 
+					Литература <br />
+					
+				</p>
+			</a>
+		</div>
+
+
+		<div align="left" style="margin: 0px 0px 40px 40px;">
+			<div class="box" id="but_area">
+				<a href="">
+					<div align="left" style="margin: 0px 0px 10px 0px;">
+						<button class = "bk0">
+							&#8593 Наверх &#8593
+						</button>
+					</div>
+				</a>
+				<a href="">	
+					<button class = "bk1">
+							&#8592 Назад
+					</button>
+				</a>
+
+				<a href="">
+					<button class = "bk2">
+						Далие &#8594
+					</button>
+				</a>
+			</div>
+		</div>
+
+	</div>
+	
+
+
+	<div class="box" id="area2">
+		<div style="margin: 20px 20px 40px 20px;">
+			<div class="box" id="ss">
+				<div style="margin: 20px 20px 20px 20px;">
+			
+
+					<a href="">
+						<p class = "st">
+							<br /> Десятичные дроби
+						</p>
+					</a>
+
+					<a href="">
+						<p class = "st">
+							Округление дес. дробей
+						</p>
+					</a>
+
+					<a href="">
+						<p class = "st">
+							Действия с дес. дробями
+						</p>
+					</a>
+
+					<a href="">
+						<p class = "st">
+							Сравнение дес. дробей 
+						</p>
+					</a>
+					<a href="">
+						<p class = "st">
+							 Всё по теме дес. дроби  
+						</p>
+					</a>
+					<p><br /></p>
+				</div>
+			</div>
+		</div>
+
+		
+		
+	</div>
+
+	<div class="box" id="area3">
+		<div style="margin: 20px 20px 40px 20px;">
+			<div class = "box" id = "ss2">
+				<div style="margin: 20px 20px 20px 20px;">
+					<a href="">
+						<p class = "st">
+							<br /> Кошелев Павел <br />
+						</p>
+					</a>
+					<p class = "st"> 
+						<br /> &#160 <br /><br /> 
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="script.js"></script>
+
+
+</body>
+
+</html>
